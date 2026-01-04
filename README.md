@@ -1,6 +1,14 @@
-<!--![Metrics](https://metrics.lecoq.io/cai-fuqiang?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+参考
+
+https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
+
+但是需要注意的是: 使用token 创建action secret 时，要创建repo secret, 而不是env secret;
+-->
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 <!--
 参考:
 
