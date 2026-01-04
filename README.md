@@ -9,6 +9,11 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
+<!--https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 参考:
 
