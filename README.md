@@ -12,6 +12,8 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 <!--https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -26,6 +28,45 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                455 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+🌆 Daytime                928 commits         ██████████░░░░░░░░░░░░░░░   39.98 % 
+🌃 Evening                916 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
+🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Tuesday                  389 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 538 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Friday                   509 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Saturday                 167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Sunday                   34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -43,7 +84,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cai-fuqiang/cai-fuqiang/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 19:47:06 UTC
+ Last Updated on 23/05/2026 19:50:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
