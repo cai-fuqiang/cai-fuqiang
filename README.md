@@ -26,6 +26,45 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                457 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+🌆 Daytime                932 commits         ██████████░░░░░░░░░░░░░░░   39.98 % 
+🌃 Evening                920 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
+🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Tuesday                  392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Thursday                 543 commits         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Friday                   509 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Saturday                 167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Sunday                   34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -43,7 +82,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cai-fuqiang/cai-fuqiang/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:59:14 UTC
+ Last Updated on 28/05/2026 21:02:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
